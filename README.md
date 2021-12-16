@@ -1,2 +1,1 @@
-# instagram
- login page of Instagram
+<img src="./img/readme/instagram-clone.png">
